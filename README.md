@@ -1,4 +1,4 @@
-# 🧞‍♂️ Databricks Genie via MS Teams (Cloud-Agnostic & Identity-Aware)
+# Databricks Genie via MS Teams (Cloud-Agnostic & Identity-Aware)
 
 This repository demonstrates a robust, enterprise-grade integration of **Databricks Genie** into **Microsoft Teams**. The architecture is designed to be **cloud-agnostic**, allowing the Databricks workspace to reside on **Google Cloud Platform (GCP)**, **Microsoft Azure**, or **Amazon Web Services (AWS)**.
 
