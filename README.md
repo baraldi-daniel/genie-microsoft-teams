@@ -40,6 +40,3 @@ The communication stack is divided into four main layers:
 ## ⚠️ Troubleshooting
 **"File is missing from the app package" Error:**
 Ensure the `manifest.json` is at the root of the `.zip` archive. If the zip contains a nested folder, the Teams Admin Center will reject the upload.
-
----
-*Empowering data-driven decisions through secure, governed, and seamless AI integration.* 🚀
