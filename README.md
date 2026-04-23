@@ -1,11 +1,5 @@
 # 🧞‍♂️ Databricks Genie via MS Teams (Cloud-Agnostic & Identity-Aware)
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-![Azure Web Apps](https://img.shields.io/badge/Azure_Web_Apps-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Multi-Cloud](https://img.shields.io/badge/Cloud-GCP%20|%20Azure%20|%20AWS-green?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-Identity%20Passthrough-blue?style=for-the-badge)
-
 This repository demonstrates a robust, enterprise-grade integration of **Databricks Genie** into **Microsoft Teams**. The architecture is designed to be **cloud-agnostic**, allowing the Databricks workspace to reside on **Google Cloud Platform (GCP)**, **Microsoft Azure**, or **Amazon Web Services (AWS)**.
 
 A key highlight of this implementation is its **Identity-Aware** security model. By leveraging an App Connection rather than service principal tokens, the integration natively respects user-level data governance and Unity Catalog permissions.
